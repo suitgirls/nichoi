@@ -2,6 +2,10 @@ body {
     color:saddlebrown;
     background-color: lightpink;
 }
-h1 {color:saddlebrown; background-color: lightsteelblue}
-h2 {color:lightsteelblue; background-color:rgb(130, 163, 130);}
+h1 {color:#8b4513; background-color: lightsteelblue
+    font-family: "PT Sans", sans-serif;
+}
+h2 {color:lightsteelblue; background-color:rgb(130, 163, 130);
+    font-family: "PT Sans", sans-serif;
+}
 a {color:lightsteelblue; background-color:darkseagreen}
