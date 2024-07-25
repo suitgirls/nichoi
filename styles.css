@@ -14,3 +14,9 @@ nav {background-color:lightsteelblue;}
 
 nav a {color:white;}
 nav {color:white;}
+
+nav {
+    padding: 10px;
+    margin-bottom:30px;
+    background-color:blanchedalmond;
+}
