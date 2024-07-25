@@ -9,3 +9,8 @@ h2 {color:lightsteelblue; background-color:rgb(130, 163, 130);
     font-family: "PT Sans", sans-serif;
 }
 a {color:lightsteelblue; background-color:darkseagreen}
+
+nav {background-color:lightsteelblue;}
+
+nav a {color:white;}
+nav {color:white;}
